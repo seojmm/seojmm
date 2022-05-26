@@ -1,4 +1,4 @@
-<img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rfyam8562">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rfyam8562">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=istywork&show_icons=true&theme=dracula)
 
