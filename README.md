@@ -1,10 +1,10 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rfyam8562)](https://solved.ac/rfyam8562)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=istywork&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seojmm&show_icons=true&theme=dracula)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=istywork)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seojmm)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **istywork/istywork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
